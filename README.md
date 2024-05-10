@@ -1,23 +1,20 @@
-## Mini Python Projects for Data Analysis and Visualization
+<h2 align="center">Python Implementations of Fundamental Data Structures and Algorithms</h2>
 
-### Overview
-This repository contains a series of small Python projects aimed at demonstrating data analysis and visualization capabilities. These projects are ideal for anyone looking to improve their data handling skills and understanding of Python's data science libraries.
+<p align="justify">
+This repository contains a series of Python notebooks that meticulously implement essential data structures and algorithms. Each notebook is crafted to demonstrate the fundamentals of algorithm design and data manipulation using Python, aiming to provide a thorough understanding of computer science principles through practical coding examples.
+</p>
 
-### Projects Included
-1. **Time Series Analysis**
-   - Utilized LSTM models to predict financial data trends.
-   - Tools: TensorFlow, Keras
+### Highlights
 
-2. **Data Visualization**
-   - Created detailed graphs and plots to visualize data insights effectively.
-   - Tools: Matplotlib, Seaborn
+- **Data Structures**: Includes notebooks on `Binary Trees`, `Linked Lists`, `Graphs`, and `Heaps`, showcasing various operations.
+- **Algorithms**: Features implementations and runtime analysis of `Binary Search`, `Merge Sort`, and recursive algorithms like `Ackermann's function`.
+- **Problem Solving**: Solves computational problems and algorithmic puzzles presented in interviews and competitive programming.
+- **Interactive Learning**: All implementations are done in Google Colab, promoting an interactive learning environment.
 
-3. **Data Cleaning and Processing**
-   - Implemented routines in Pandas and Numpy for data preprocessing to enhance model accuracy.
-   - Tools: Pandas, Numpy
+### Getting Started
 
-### How to Use
-Clone this repository to get started with these Python projects:
+To clone and run these notebooks, follow these steps:
+
 ```bash
 git clone https://github.com/yourusername/your-repository-name.git
 cd your-repository-name
